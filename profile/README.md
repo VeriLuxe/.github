@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-# VeriLuxe 🔐  
+# VeriLuxe   
 **Blockchain-Powered Luxury Authentication**
 
 VeriLuxe is a REST API for issuing, verifying, revoking, and transferring authenticity certificates for luxury fashion items. Built in Rust, it interacts with a Soroban smart contract on the Stellar blockchain to provide cryptographic verification of physical luxury products.
